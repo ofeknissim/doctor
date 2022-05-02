@@ -1,10 +1,14 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src=""C:\Users\ofekr\Desktop\phplaravelvuejs.jpg"" width="400"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+
+This is a doctor appointment web application made with php laravel vue js.  
+The booking application has three types of users namely patient, doctor, and admin.
+
+The patient will be able to book an appointment with his doctor. In the frontend, i have a date through which the patient can filter the available doctors on a particular date.  the patient can book a specific time for a particular date which will be also shown inpatient dashboard later.
+The patient dashboard also shows whether he has visited to doctor or not. If yes, he will see the medicine prescribed by the doctor on his dashboard. He can also update his profile.
+
+
 </p>
 
 ## About Laravel
