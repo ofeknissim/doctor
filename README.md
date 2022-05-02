@@ -9,6 +9,10 @@ The patient will be able to book an appointment with his doctor. In the frontend
 The patient dashboard also shows whether he has visited to doctor or not. If yes, he will see the medicine prescribed by the doctor on his dashboard. He can also update his profile.
 </p>
 
+##sql query - database
+[clinic.zip](https://github.com/ofeknissim/doctor/files/8602192/clinic.zip)
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
