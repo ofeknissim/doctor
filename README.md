@@ -1,4 +1,4 @@
-<p align="center"><img src="![phplaravelvuejs](https://user-images.githubusercontent.com/85547954/166218291-a69e30fe-adcc-450f-bd80-b8b551bc726b.jpg)" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/85547954/166218291-a69e30fe-adcc-450f-bd80-b8b551bc726b.jpg" width="400"></p>
 
 <p align="center">
 
