@@ -12,6 +12,8 @@ The patient dashboard also shows whether he has visited to doctor or not. If yes
 ##sql query - database
 [clinic.zip](https://github.com/ofeknissim/doctor/files/8602192/clinic.zip)
 
+##run command - php artisan serve
+
 
 ## About Laravel
 
