@@ -1,4 +1,4 @@
-<p align="center"><img src=""C:\Users\ofekr\Desktop\phplaravelvuejs.jpg"" width="400"></p>
+<p align="center"><img src="C:\Users\ofekr\Desktop\phplaravelvuejs.jpg" width="400"></p>
 
 <p align="center">
 
